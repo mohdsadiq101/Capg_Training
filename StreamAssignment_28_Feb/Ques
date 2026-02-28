@@ -1,0 +1,12 @@
+Refer an EmployeeRepository class
+
+Create an EmployeeService class which queries on collections provided by EmployeeRepository class for following
+requirements. Create separate method for each requirement. (Note: Each
+requirement stated below must be attempted by using lambda expressions/stream
+API.
+
+1. Calculate average salary.
+2. Find employee with maximum salary in each department.
+3. Calculate total salary per department.
+4. Display employee name and salary.
+5. Sort by salary in descending order
